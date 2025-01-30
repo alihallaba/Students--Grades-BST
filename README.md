@@ -1,0 +1,2 @@
+# Students' Grades BST
+ Students' Grades BST is a C++ project designed to manage and organize student grades efficiently using a Binary Search Tree (BST) and Linked Lists. This project allows users to store subjects (e.g., courses) in a BST, where each subject node contains a linked list of grades. It provides functionalities to insert, remove, and search for subjects and grades, as well as calculate the maximum grade across all subjects.
