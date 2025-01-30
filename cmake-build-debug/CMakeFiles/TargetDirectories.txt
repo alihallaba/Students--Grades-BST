@@ -1,0 +1,3 @@
+D:/Studeeennt GRAdddess/cmake-build-debug/CMakeFiles/Studeeennt_GRAdddess.dir
+D:/Studeeennt GRAdddess/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Studeeennt GRAdddess/cmake-build-debug/CMakeFiles/rebuild_cache.dir
